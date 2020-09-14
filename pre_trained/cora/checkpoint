@@ -1,2 +1,2 @@
-model_checkpoint_path: "mod_cora.ckpt"
-all_model_checkpoint_paths: "mod_cora.ckpt"
+model_checkpoint_path: "/content/GAT/pre_trained/cora/mod_cora.ckpt"
+all_model_checkpoint_paths: "/content/GAT/pre_trained/cora/mod_cora.ckpt"

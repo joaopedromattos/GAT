@@ -5,7 +5,7 @@ import tensorflow as tf
 from models import GAT
 from utils import process
 
-checkpt_file = 'pre_trained/cora/mod_cora.ckpt'
+checkpt_file = '/content/GAT/pre_trained/cora/mod_cora.ckpt'
 
 dataset = 'cora'
 
